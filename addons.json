@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Addon X",
+    "descricao": "Descrição do addon",
+    "imagem": "https://via.placeholder.com/150",
+    "link": "https://site-do-addon.com"
+  },
+  {
+    "nome": "Addon Y",
+    "descricao": "Outro addon",
+    "imagem": "https://via.placeholder.com/150",
+    "link": "https://site-do-addon.com"
+  }
+]
